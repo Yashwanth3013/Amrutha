@@ -1,0 +1,6 @@
+projectKey=amrutha
+serverUrl=http://localhost:9000
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:9000/dashboard?id=amrutha
+ceTaskId=AXvdmZxbXL5Gj3PaGqt0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXvdmZxbXL5Gj3PaGqt0
